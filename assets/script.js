@@ -23,7 +23,11 @@ function selectTopics() {
     }
 
 }
+/*
 
+"dasdada"
+
+*/
 console.log('Here are the topics we learned through Prework:');
 
 listTopics();
